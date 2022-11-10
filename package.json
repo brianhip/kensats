@@ -7,7 +7,7 @@
       "graphql",
       "visualizer"
     ],
-    "homepage": "https://github.com/brianhip/kensa-npm",
+    "homepage": "https://github.com/oslabs-beta/Kensa",
     "bugs": {
       "url": "https://github.com/brianhip/kensa-npm/issues",
       "email": "brian7terra@gmail.com"
@@ -22,7 +22,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/UserName/package-name.git"
+      "url": "https://github.com/brianhip/kensa-npm"
     },
     "author": "Brian Peinado, Brian Pham, Raymond Kim, Tommy Li",
     "license": "MIT",
