@@ -12,7 +12,7 @@ Note: Currently supporting GraphQL Apollo Server only.
 
 You need to have a backend server built using GraphQL Apollo Server. Go to the [GraphQL](https://www.apollographql.com/docs/) to learn more about using GraphQL with Apollo Server.
 
-Have an account with Kensa. Visit ADD LINK and sign up for an account to get full access to the Kensa web app.
+Have an account with Kensa. Visit [Kensa](https://kensats.link/) and sign up for an account to get full access to the Kensa web app.
 
 
 <a href="https://www.loom.com/share/b56225773efb488d91ba52d632fe8d46">
