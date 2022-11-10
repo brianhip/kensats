@@ -1,4 +1,4 @@
-# Kensa NPM
+# KensaTS
 
 A lightweight package to gather metrics from your GraphQL Apollo Server queries.
 
@@ -23,17 +23,17 @@ Have an account with Kensa. Visit [Kensa](https://kensats.link/) and sign up for
 
 ### Installing
 
-Install the Kensa NPM Package into your project
+Install the KensaTS Package into your project
 
 ```sh
-npm install kensa-npm
+npm install kensats
 ```
 <hr>
 
-In your server file, import the following plugins from kensa-npm:
+In your server file, import the following plugins from kensats:
 
 ```js
-import { kensaPlugin, getContext} from 'kensa-npm';
+import { kensaPlugin, getContext} from 'kensats';
 ```
 <hr>
 Include the kensaPlugin in your plugins array
@@ -86,6 +86,4 @@ See also the list of [contributors](https://github.com/oslabs-beta/Kensa/graphs/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
 

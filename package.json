@@ -1,5 +1,5 @@
 {
-    "name": "kensa-npm",
+    "name": "kensats",
     "version": "1.0.0",
     "description": "Connect graphql server to Kensa Monitoring Tool",
     "keywords": [
@@ -9,7 +9,7 @@
     ],
     "homepage": "https://github.com/oslabs-beta/Kensa",
     "bugs": {
-      "url": "https://github.com/brianhip/kensa-npm/issues",
+      "url": "https://github.com/brianhip/kensats/issues",
       "email": "brian7terra@gmail.com"
     },
     "main": "dist/index.js",
@@ -22,7 +22,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/brianhip/kensa-npm"
+      "url": "https://github.com/brianhip/kensats"
     },
     "author": "Brian Peinado, Brian Pham, Raymond Kim, Tommy Li",
     "license": "MIT",
